@@ -3,8 +3,8 @@
 ---
 
 # Student: ***[Ben Stirling](https://github.com/abenstirling)***
-Professor: ***[Joe Politz](https://github.com/jpolitz)***
-Date: ***10/12/22***
+# Professor: ***[Joe Politz](https://github.com/jpolitz)***
+# Date: ***10/12/22***
 
 ---
 
